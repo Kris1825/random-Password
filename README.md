@@ -2,7 +2,7 @@
 
 Application that enables generation of random passwords based on user-defined criteria. Dynamically updated HTML and CSS powered by JavaScript code with a responsive user interface that adapts to multiple screen sizes.
 
-[Deployed GitHub URL](https://kris1825.github.io/Random-Password-Generator/)
+[Deployed GitHub URL](https://kris1825.github.io/random-Password/)
 
 ## Technologies
 
